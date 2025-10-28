@@ -19,7 +19,7 @@ export default function Hero() {
 
             {/* Right Side - Image */}
             <div className="order-1 md:order-2">
-              <div className="relative w-full aspect-[4/3] rounded-lg overflow-hidden">
+              <div className="relative w-full aspect-[4/3] rounded-[5px] overflow-hidden">
                 <Image
                   src="/gas25.png"
                   alt="Hero illustration"
