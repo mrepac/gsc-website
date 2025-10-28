@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
             {/* Left Side - Text Content */}
-            <div className="order-2 md:order-1">
+            <div className="order-1 md:order-1">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
                 Oblikujemo prihodnost
               </h1>
@@ -18,7 +18,7 @@ export default function Hero() {
             </div>
 
             {/* Right Side - Image */}
-            <div className="order-1 md:order-2">
+            <div className="order-2 md:order-2">
               <div className="relative w-full aspect-[4/3] rounded-[5px] overflow-hidden">
                 <Image
                   src="/gas25.png"
