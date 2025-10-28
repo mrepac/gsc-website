@@ -21,7 +21,7 @@ export default function About() {
             <div className="my-12">
               <div className="relative w-full aspect-[16/9] rounded-lg overflow-hidden">
                 <Image
-                  src="/gas25.png"
+                  src="/gas252.jpg"
                   alt="Global Shapers"
                   width={1200}
                   height={675}

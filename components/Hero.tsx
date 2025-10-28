@@ -21,7 +21,7 @@ export default function Hero() {
             <div className="order-1 md:order-2">
               <div className="relative w-full aspect-[4/3] rounded-lg overflow-hidden">
                 <Image
-                  src="https://gscljubljana.org/assets/images/image02.png?v=8d89fc03"
+                  src="/gas25.png"
                   alt="Hero illustration"
                   width={800}
                   height={600}
